@@ -112,12 +112,13 @@ nav .logo-text{
 .item {
   text-align: center;
   font-weight: bold;
+  max-height: 160px;
 }
 
 .item-img {
   border-radius: 8px;
-  max-width: 250px;
-  max-height: 175px;
+  max-width: 220px;
+  height: 100%;
 }
 
 /* QUOTE SECTION */
